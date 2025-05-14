@@ -1,4 +1,4 @@
-# Mini CRUD Backend con Node.js, Express y MySQL
+# ToDoListAPI con Node.js, Express y MySQL
 
 Este proyecto es una API REST simple para gestionar tareas (to-do list), usando Node.js, Express.js y MySQL.
 
